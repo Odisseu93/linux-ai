@@ -1,7 +1,3 @@
-Preparei o `README.md` em inglês americano, com apresentação profissional para o GitHub, instruções de instalação, configuração, utilização, arquitetura, segurança e roadmap.
-
-Escrita
-
 # Linux AI
 
 ### Local intelligence for Linux, without the cloud.
