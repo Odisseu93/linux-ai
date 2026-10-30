@@ -33,30 +33,30 @@ The assistant does not automatically execute commands. It provides explanations,
 
 ### Implemented
 
-- [x]Local AI inference through llama.cpp.
-- [x]GGUF model support.
-- [x]Interactive terminal interface.
-- [x]Brazilian Portuguese as the default language.
-- [x]American English language support.
-- [x]Language selection through environment variables.
-- [x]Conversation history during the current session.
-- [x]Built-in terminal commands.
-- [x]Standard input and pipe support.
-- [x]Configurable model location.
-- [x]Configurable llama.cpp executable.
-- [x]Configurable inference parameters.
-- [x]No external Python dependencies.
+- [x] Local AI inference through llama.cpp.
+- [x] GGUF model support.
+- [x] Interactive terminal interface.
+- [x] Brazilian Portuguese as the default language.
+- [x] American English language support.
+- [x] Language selection through environment variables.
+- [x] Conversation history during the current session.
+- [x] Built-in terminal commands.
+- [x] Standard input and pipe support.
+- [x] Configurable model location.
+- [x] Configurable llama.cpp executable.
+- [x] Configurable inference parameters.
+- [x] No external Python dependencies.
 
 ### Planned
 
-- [ ]Automatic system information collection.
-- [ ]Linux system diagnostics.
-- [ ]Persistent model loading between requests.
-- [ ]Advanced log analysis.
-- [ ]Improved conversation context management.
-- [ ]Structured troubleshooting reports.
-- [ ]Persistent conversation history.
-- [ ]Additional language support.
+- [ ] Automatic system information collection.
+- [ ] Linux system diagnostics.
+- [ ] Persistent model loading between requests.
+- [ ] Advanced log analysis.
+- [ ] Improved conversation context management.
+- [ ] Structured troubleshooting reports.
+- [ ] Persistent conversation history.
+- [ ] Additional language support.
 
 ## Architecture
 
@@ -524,46 +524,46 @@ Model files must also remain outside the repository.
 
 ### Core functionality
 
-- [x]Local inference.
-- [x]Terminal interface.
-- [x]Brazilian Portuguese support.
-- [x]American English support.
-- [x]Conversation history.
-- [x]Built-in commands.
-- [x]Piped input.
-- [x]Configurable model path.
-- [x]Configurable llama.cpp path.
+- [x] Local inference.
+- [x] Terminal interface.
+- [x] Brazilian Portuguese support.
+- [x] American English support.
+- [x] Conversation history.
+- [x] Built-in commands.
+- [x] Piped input.
+- [x] Configurable model path.
+- [x] Configurable llama.cpp path.
 
 ### System integration
 
-- [ ]RAM and swap inspection.
-- [ ]Disk usage analysis.
-- [ ]Process monitoring.
-- [ ]systemd service inspection.
-- [ ]Kernel information collection.
-- [ ]Network and port inspection.
+- [ ] RAM and swap inspection.
+- [ ] Disk usage analysis.
+- [ ] Process monitoring.
+- [ ] systemd service inspection.
+- [ ] Kernel information collection.
+- [ ] Network and port inspection.
 
 ### Performance
 
-- [ ]Persistent model loading.
-- [ ]Improved context management.
-- [ ]Reduced inference startup latency.
-- [ ]Memory usage optimization.
+- [ ] Persistent model loading.
+- [ ] Improved context management.
+- [ ] Reduced inference startup latency.
+- [ ] Memory usage optimization.
 
 ### Diagnostics
 
-- [ ]Interactive diagnostic mode.
-- [ ]Advanced log analysis.
-- [ ]Error classification.
-- [ ]Structured troubleshooting reports.
-- [ ]Safe command recommendations.
+- [ ] Interactive diagnostic mode.
+- [ ] Advanced log analysis.
+- [ ] Error classification.
+- [ ] Structured troubleshooting reports.
+- [ ] Safe command recommendations.
 
 ### User experience
 
-- [ ]Persistent conversation history.
-- [ ]Improved terminal formatting.
-- [ ]External configuration file.
-- [ ]Additional language support.
+- [ ] Persistent conversation history.
+- [ ] Improved terminal formatting.
+- [ ] External configuration file.
+- [ ] Additional language support.
 
 ## Contributing
 
