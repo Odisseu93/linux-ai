@@ -575,10 +575,7 @@ When contributing, please consider:
 - Maintaining existing functionality.
 
 ## License
-
-The project license has not yet been selected.
-
-A license should be added before distributing Linux AI as an openly licensed project.
+[GNU General Public License v3.0](LICENSE)
 
 Third-party dependencies and language models retain their respective licenses.
 
